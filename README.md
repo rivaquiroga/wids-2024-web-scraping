@@ -30,7 +30,11 @@ Los siguientes atajos de teclado serán útiles cuando exploremos páginas web e
 | Abrir el panel de desarrollo | F12<br/>ctrl + shift + i | F12<br/>option + command + i |
 | Abrir el panel de desarrollo con la opción de selección activada | ctrl + shift + c | option/ctrl + command + c |
 
-## Actividades
-Durante el taller iremos escribiendo "código en vivo". Acá pondremos los enlaces a los scripts para que queden como respaldo. 
+## Enlaces
+Durante el taller iremos escribiendo "código en vivo". Acá pondremos los enlaces a los scripts para que queden como respaldo, así como las páginas web que usemos en las actividades.
 
+* Ejemplo de tablas en una [página estática](https://es.wikipedia.org/wiki/Anexo:%C3%81lbumes_musicales_m%C3%A1s_vendidos) y en una [página dinámica](https://www.camara.cl/transparencia/asesoriasexternasgral.aspx).
+
+
+### Actividad 1: extracción de una tabla
 
