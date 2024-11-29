@@ -35,10 +35,10 @@ Durante el taller iremos escribiendo "código en vivo". En esta sección pondrem
 
 ### Actividad 1: seleccionar un menú y extraer una tabla
 
-* [Sitio web](https://www.camara.cl/transparencia/oficinasparlamentarias.aspx)
-* Código escrito durante el taller
+* [Página web](https://www.camara.cl/transparencia/oficinasparlamentarias.aspx)
+* [Código escrito durante el taller](https://www.dropbox.com/scl/fi/793pgz3ulcvztjn0z0vk1/01_seleccionar-menu-tabla.py?rlkey=eaazvqpfbz51e1a0ymjkfh641&st=u9887a53&dl=0)
 
-### Activdad 2: ingresar texto en una barra de búsqueda y pasar páginas
+### Activdad 2: ingresar texto en una barra de búsqueda, extraer enlaces y pasar la página
 
-* [Sitio web](https://www.memoriachilena.gob.cl/)
-* Código escrito durante el taller
+* [Página web](https://www.memoriachilena.gob.cl/)
+* [Código escrito durante el taller](https://www.dropbox.com/scl/fi/tyytfa6a7sp5qe7zaiydv/02_rellenar-formulario-paginacion.py?rlkey=ux5eybdxfrjsaq8l00fk6udle&st=zmuhj9ts&dl=0)
